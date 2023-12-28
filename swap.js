@@ -11,7 +11,7 @@
   // PancakeSwap Router Address and ABI
   const pancakeSwapRouterAddress = '0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3';//put mainnet router address here
 
-   //put mainnet router abi address here,this abi is for bsc testnet
+   //put mainnet router abi here,this abi is for bsc testnet
   const pancakeSwapRouterAbi = [
     {
       "inputs": [
